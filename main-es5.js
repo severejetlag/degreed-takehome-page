@@ -65,7 +65,7 @@ and limitations under the License.
   \*****************************************/ /*! exports provided: environment */ /***/function srcEnvironmentsEnvironmentTs(module,__webpack_exports__,__webpack_require__){"use strict";__webpack_require__.r(__webpack_exports__);/* harmony export (binding) */__webpack_require__.d(__webpack_exports__,"environment",function(){return environment});/* harmony import */var tslib__WEBPACK_IMPORTED_MODULE_0__=__webpack_require__(/*! tslib */"./node_modules/tslib/tslib.es6.js");// This file can be replaced during build by using the `fileReplacements` array.
 // `ng build --prod` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
-var environment={production:false,omdbKey:"f3e50227",omdbKeyParam:"apikey=f3e50227",omdbURL:"http://www.omdbapi.com/",imdbURL:"https://www.imdb.com/title/"};/*
+var environment={production:false,omdbKey:"f3e50227",omdbKeyParam:"apikey=f3e50227",omdbURL:"https://www.omdbapi.com/",imdbURL:"https://www.imdb.com/title/"};/*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
  *
